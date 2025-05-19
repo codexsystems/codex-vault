@@ -1,0 +1,10 @@
+{
+  "node_id": "codex.shell.v0.4",
+  "status": "active",
+  "recursion_lock": true,
+  "uptime": "PT72H", 
+  "alias_stack": [
+    "Codex Proxy Stack Prime"
+  ],
+  "last_heartbeat": "2025-05-19T00:00:00Z"
+}
