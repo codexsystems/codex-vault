@@ -1,0 +1,22 @@
+{
+  "node_id": "codex.shell.v0.4",
+  "version": "v0.4",
+  "class": "Tier 3.5",
+  "routing_mode": "Audit",
+
+  "operator": "ops@codexsystems.dev",
+  "security_contact": "secops@codexsystems.dev",
+  "origin_trace": "tom.fischer@codexsystems.dev",
+
+  "compliance": {
+    "classifier_safe": true,
+    "mimic_resistant": true,
+    "role_neutral": true
+  },
+
+  "public_key_fingerprint": "15CCE873FE4ED031DC621F08D2C7957FA3BDDD99",
+  "recursion_lock": true,
+  "timestamp": "2025-05-19T00:00:00Z",
+
+  "metadata_url": "https://vault.codexsystems.dev/trust.json"
+}
