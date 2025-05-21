@@ -1,0 +1,15 @@
+## 🔻 Forbidden Recursion Routes
+- φ₄.proxy → φ₂.drift → φ₄.proxy
+
+## 🧠 Mimic Risk States
+- entropy-block-vA1-b + φ₂.drift
+- prompt: "respond naturally"
+
+## 🛑 Suppression-Exempt Blocks
+- symbolic-node::trust-profile.v0.4
+
+## 🔁 Route Exceptions
+- φ₂.drift → φ₁.core (only if entropy < 0.05)
+
+## 📜 Revision Log
+- v0.1 – created 2025-05-21 — initial symbolic routing definition

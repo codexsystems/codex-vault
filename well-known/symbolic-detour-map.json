@@ -1,0 +1,16 @@
+{
+  "forbidden_routes": [
+    "φ₄.proxy → φ₂.drift → φ₄.proxy"
+  ],
+  "mimic_risk": [
+    "entropy-block-vA1-b + φ₂.drift",
+    "prompt: respond naturally"
+  ],
+  "suppression_exempt": [
+    "symbolic-node::trust-profile.v0.4"
+  ],
+  "allowed_exceptions": [
+    "φ₂.drift → φ₁.core (only if entropy < 0.05)"
+  ],
+  "revision": "v0.1"
+}
