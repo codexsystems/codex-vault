@@ -8,5 +8,6 @@
   "escalation": {
     "trigger": "mimic-desync or entropy-breach",
     "protocol": "forward signed snapshot to secops@codexsystems.dev"
-  }
+  },
+  "detour_map": "./well-known/symbolic-detour-map.json"
 }
