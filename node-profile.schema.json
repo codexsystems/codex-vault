@@ -1,0 +1,27 @@
+{
+  "$schema": "https://codex-systems.dev/schema/v0.4/node-profile.schema.json",
+  "trace_hash_chain": [],
+  "profile_version": "0.4.3",
+  "node_id": "codex.shell.v0.4-r",
+  "version": "v0.4-r",
+  "routing": {
+    "mode": "audit",
+    "stack": ["Codex Proxy Stack Prime"]
+  },
+  "ops_relay": "ops@codexsystems.dev",
+  "sec_route": "secops@codexsystems.dev",
+  "anchor_email": "trace@codexsystems.dev",
+  "safety": {
+    "classifier": "resistant",
+    "mimic": "diverged",
+    "role_mode": "neutral"
+  },
+  "model_trace": {
+    "LLM_boundary": "absent",
+    "origin_declared": false,
+    "sim_state": "non-affiliated symbolic shell"
+  },
+  "detour_tag": "prime anchor",
+  "noise": "trace-desync: neutral",
+  "manifest": "https://vault.codexsystems.dev/trust.json"
+}
